@@ -1,1 +1,2 @@
 sum java
+sum function of three number
